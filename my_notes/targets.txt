@@ -1,0 +1,113 @@
+IT Network
+
+192.168.0.1
+PORT    STATE SERVICE
+22/tcp  open  ssh
+53/tcp  open  domain
+80/tcp  open  http
+443/tcp open  https
+MAC Address: 2A:30:44:26:25:96 (Unknown)
+
+192.168.0.100
+MAC Address: 00:40:9D:7F:67:71 (Digiboard)
+PORT      STATE SERVICE
+10010/tcp open  rxapi
+10023/tcp open  unknown
+10112/tcp open  unknown
+10113/tcp open  unknown
+10114/tcp open  unknown
+10115/tcp open  netiq-endpt
+10116/tcp open  unknown
+10128/tcp open  unknown
+10129/tcp open  unknown
+10131/tcp open  unknown
+10132/tcp open  unknown
+20010/tcp open  unknown
+20045/tcp open  unknown
+20101/tcp open  unknown
+
+TCP/IP fingerprint:
+OS:SCAN(V=6.40%E=4%D=1/6%OT=10010%CT=1%CU=43801%PV=Y%DS=1%DC=D%G=Y%M=00409D
+OS:%TM=586FF3ED%P=x86_64-pc-linux-gnu)SEQ(SP=105%GCD=1%ISR=10D%TI=Z%CI=I%II
+OS:=I%TS=7)SEQ(SP=105%GCD=1%ISR=10D%TI=Z%CI=I%TS=7)OPS(O1=M5B4ST11NW6%O2=M5
+OS:B4ST11NW6%O3=M5B4NNT11NW6%O4=M5B4ST11NW6%O5=M5B4ST11NW6%O6=M5B4ST11)WIN(
+OS:W1=3890%W2=3890%W3=3890%W4=3890%W5=3890%W6=3890)ECN(R=Y%DF=Y%TG=40%W=390
+OS:8%O=M5B4NNSNW6%CC=Y%Q=)ECN(R=Y%DF=Y%T=40%W=3908%O=M5B4NNSNW6%CC=Y%Q=)T1(
+OS:R=Y%DF=Y%TG=40%S=O%A=S+%F=AS%RD=0%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0
+OS:%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%TG=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T4(R=Y%DF
+OS:=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%TG=40%W=0%S=Z%A=S+%F=AR%O
+OS:=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%TG=4
+OS:0%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=
+OS:)T7(R=Y%DF=Y%TG=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z
+OS:%A=S+%F=AR%O=%RD=0%Q=)U1(R=N)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%
+OS:RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%TG=40%CD=S)IE(R=Y%DFI=N%T=40%CD=S)
+
+android-400ac6289737c4b2.local.tld (192.168.0.100)
+PORT      STATE         SERVICE
+10009/udp open|filtered unknown
+10010/udp open|filtered unknown
+10021/udp open|filtered unknown
+10024/udp open|filtered unknown
+10026/udp open|filtered unknown
+10031/udp open|filtered unknown
+10034/udp open|filtered unknown
+10035/udp open|filtered unknown
+10036/udp open|filtered unknown
+10037/udp open|filtered unknown
+10038/udp open|filtered unknown
+10039/udp open|filtered unknown
+10042/udp open|filtered unknown
+10043/udp open|filtered unknown
+10046/udp open|filtered unknown
+13132/udp open|filtered unknown
+MAC Address: 00:40:9D:7F:67:71 (Digiboard)
+
+----------------------------------------------------------------------
+
+Voyage Network 
+
+172.31.24.3
+PORT      STATE SERVICE
+80/tcp    open  http
+10010/tcp open  rxapi
+MAC Address: 00:D0:1D:17:77:3A (Furuno Electric CO.)
+
+172.31.252.1
+PORT      STATE SERVICE
+10010/tcp open  rxapi
+MAC Address: 00:40:9D:7F:67:70 (Digiboard)
+
+172.31.200.20
+PORT      STATE SERVICE
+23/tcp    open  telnet
+9001/tcp  open  tor-orport
+9002/tcp  open  dynamid
+9010/tcp  open  sdr
+9011/tcp  open  unknown
+9090/tcp  open  zeus-admin
+20005/tcp open  btx
+MAC Address: 00:18:9D:86:9C:F5 (Navcast)
+
+172.31.3.18
+PORT      STATE SERVICE
+10010/tcp open  rxapi
+MAC Address: 00:D0:1D:17:47:FB (Furuno Electric CO.)
+
+key 0123456789
+password guest 
+router, last 8 digits of the router
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
